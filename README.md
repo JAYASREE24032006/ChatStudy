@@ -1,4 +1,4 @@
-# EX.NO.1B			STUDY OF CLIENT SERVER CHAT APPLICATIONS
+# EX.NO.1B	 -		STUDY OF CLIENT SERVER CHAT APPLICATIONS
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
