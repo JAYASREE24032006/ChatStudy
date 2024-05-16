@@ -1,4 +1,7 @@
 # EX.NO.1B	 -		STUDY OF CLIENT SERVER CHAT APPLICATIONS
+
+**DATE : 14.02.2024**
+
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
